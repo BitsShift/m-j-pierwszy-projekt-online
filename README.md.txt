@@ -5,3 +5,5 @@ Hello
 # To jest moja lokalna zmiana.. 
 
 Home
+
+Dawid nie kupuj golfa
